@@ -11,3 +11,4 @@ if (!$conn) {
     echo "error";
     exit;
 }
+?>

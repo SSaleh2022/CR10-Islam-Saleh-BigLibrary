@@ -42,3 +42,4 @@ function file_upload($photo) {
         }
     }
 }
+?>
